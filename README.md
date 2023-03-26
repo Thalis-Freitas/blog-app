@@ -12,9 +12,9 @@ Uma interface para exibir posts de um blog e, ao clicar em um post, os comentár
 ## Tarefas
 <div align="justify">
 
-- [ ] 1 - Listar posts.
+- [x] 1 - Listar posts.
 
-- [ ] 2 - Exibir os comentários associados ao clicar em um post.
+- [x] 2 - Exibir os comentários associados ao clicar em um post.
 
 
 <h4 align="center">
