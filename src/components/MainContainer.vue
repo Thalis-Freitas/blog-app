@@ -16,8 +16,8 @@ export default {
 <style scoped>
 .main{
   position: fixed;
-  top: 5%;
-  bottom: 5%;
+  top: 8%;
+  bottom: 8%;
   overflow-y: scroll;
   padding: 20px;
 }
